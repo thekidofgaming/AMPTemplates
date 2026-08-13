@@ -1,9 +1,10 @@
 {
-	"id": "ec280169-c67b-4cf8-923f-dc27fea91ee1",
-	"authors": ["thekidofgaming"],
-	"origin": "https://github.com/thekidofgaming/AMPTemplates.git",
-	"url": "https://github.com/thekidofgaming/AMPTemplates",
-	"imagefile": "",
-	"prefix": "",
-	"repotype": "AppTemplates"
+    "id": "70813439-85f1-484b-8e21-ea1e0d8866f5",
+    "authors": [
+        "TheKidOfGaming - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/TheKidOfGaming/AMPTemplates.git",
+    "url": "https://github.com/TheKidOfGaming/AMPTemplates",
+    "imagefile": "",
+    "prefix": "TheKidOfGaming"
 }
