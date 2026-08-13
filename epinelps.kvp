@@ -1,6 +1,5 @@
 App.AdminMethod=PinballWizard
-App.ApplicationPort1=443
-App.ApplicationPort2=80
+App.ApplicationPort1=3000
 App.ApplicationReadyMode=Immediate
 App.BaseDirectory=./epinelps/
 App.CommandLineArgs=+ip {{$ApplicationIPBinding}} +port {{$ApplicationPort1}} +queryport {{$ApplicationPort2}} +rconpassword "{{$RemoteAdminPassword}}" +maxusers {{$MaxUsers}} {{$FormattedArgs}}
