@@ -2,10 +2,9 @@
     {
         "UpdateStageName": "Download",
         "UpdateSourcePlatform": "Linux",
-        "UpdateSource": "FetchURL",
+        "UpdateSource": "GitRepo",
         "UpdateSourceArch": "x86_64",
-        "UpdateSourceData": "https://github.com/EpinelPS/EpinelPS/actions/runs/31722733235/artifacts/9190050053",
-        "UnzipUpdateSource": true,
-        "DeleteAfterExtract": true
+        "UpdateSourceData": "https://github.com/EpinelPS/EpinelPS/",
+        "UpdateSourceTarget": "serverfiles"
     }
 ]

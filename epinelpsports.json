@@ -1,7 +1,7 @@
 [
     {
         "Protocol": "Both",
-        "Port": 4430,
+        "Port": 7999,
         "Ref": "MainGamePort",
         "Name": "Main Game Port",
         "Description": "Port used for main game traffic",
